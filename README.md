@@ -1,6 +1,6 @@
 # Phishing Website Classification
 
-**Group 11 | Section 26920**
+Group 11 
 
 **Team members:**
 1. Atheer AlSulami
