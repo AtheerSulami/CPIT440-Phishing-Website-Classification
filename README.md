@@ -21,4 +21,3 @@ Upload `Phishing_Website_Classification.ipynb` to [Google Colab](https://colab.r
 - `PhishingData.arff` — dataset
 - `requirements.txt` — dependencies
 
-Source project: https://github.com/adibamba/phishing-classification
